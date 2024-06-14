@@ -1,0 +1,18 @@
+[project]
+name = "example_package_YOUR_USERNAME_HERE"
+version = "0.0.1"
+authors = [
+  { name= "Gabriel Benavidez" },
+]
+description = "This library expands upon the RPLCD library to provide short-cut commands for various LCD Display control options."
+readme = "README.md"
+requires-python = ">=3.7.3"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/GabeBen3/RaspberryPi-LCD-Library.git"
+Issues = "https://github.com/GabeBen3/RaspberryPi-LCD-Library.git/issues" 
