@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lcd-tools"
-version = "0.1.86"
+version = "0.1.88"
 description = "lcd-tools expands upon the RPLCD library to provide short-cut commands for various LCD Display control options. "
 authors = ["Gabriel Benavidez <gbenavidez@ucmerced.edu>"]
 license = "MIT"
